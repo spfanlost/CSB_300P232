@@ -1,0 +1,1 @@
+copy Flash\Obj\output.hex ..\output(uV5).hex
